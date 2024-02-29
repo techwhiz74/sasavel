@@ -113,7 +113,7 @@
 > Contact Me.
 
 <p>
-    <a href="https://https://join.skype.com/G1pmc7wVVMyl"><img alt="Skype" src="https://img.shields.io/badge/Skype-1572B6.svg?logo=skype&logoColor=white">
-    <a href="https://t.me/infodevguy"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0078d7.svg?logo=telegram&logoColor=white"></a>
+    <a href="https://https://join.skype.com/G1pmc7wVVMyl" target="_blank"><img alt="Skype" src="https://img.shields.io/badge/Skype-1572B6.svg?logo=skype&logoColor=white">
+    <a href="https://t.me/infodevguy" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0078d7.svg?logo=telegram&logoColor=white"></a>
 </p>
 
