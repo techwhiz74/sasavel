@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋 there, I am Sasa Velickovic</h1>
-<h3 align="center">I am a Senior Full Stack Developer🌟.</h3>
+<h3 align="center">Write code for humans, not just for machines!🌟.</h3>
+<h3 align="center">Follow best coding practices and standards!🌟.</h3>
 <br>
 <p align='center'>
 <a href="https://github.com/jstrieb/github-stats">
