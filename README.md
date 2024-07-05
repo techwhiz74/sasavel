@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋 there, I am Sasa Velickovic</h1>
 <h3 align="center">Write code for humans, not just for machines!🌟.</h3>
 <h3 align="center">Follow best coding practices and standards!🌟.</h3>
 <br>
@@ -19,7 +18,7 @@
 
 
 <div>
-  <p>  🥇 A Professional full-stack Web and Blockchain engineer for over than 6 years : till now, this guy has worked on so many projects. Always provides very creative ideas and has high passion, high ability, clean coding ability. His strongest asset is his work ethic and his willingness to step in when needed. He is not afraid to take on a difficult client or do a project that nobody else wants because those are the clients and projects that teach him the most. He typically loves to work outside of his job description and do whatever is asked of him. He is not above any single task, and He takes great pride in his ability to step in and adapt to any situation to get the best results for the company or clients. From simple landing pages to complex platform development, there will be existed always anything perfect within his reach. He has strong work experience in all of blockchain platform development containing Dao ,Dex, Defi , Dapps, Casino Website , Web3 Game , NFT minting/marketplace , Metaverse.
+  <p>  🥇 A Professional full-stack Web and Blockchain engineer for over than 7 years : till now, this guy has worked on so many projects. Always provides very creative ideas and has high passion, high ability, clean coding ability. His strongest asset is his work ethic and his willingness to step in when needed. He is not afraid to take on a difficult client or do a project that nobody else wants because those are the clients and projects that teach him the most. He typically loves to work outside of his job description and do whatever is asked of him. He is not above any single task, and He takes great pride in his ability to step in and adapt to any situation to get the best results for the company or clients. From simple landing pages to complex platform development, there will be existed always anything perfect within his reach. He has strong work experience in all of blockchain platform development containing Dao ,Dex, Defi , Dapps, Casino Website , Web3 Game , NFT minting/marketplace , Metaverse.
   </p>
 </div>
 
